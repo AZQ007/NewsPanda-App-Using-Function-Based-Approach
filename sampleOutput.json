@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Video: Supreme Court rejects Jack Smith's request on Trump immunity. Legal expert has theory why | CNN Politics",
+            "description": "CNN senior legal analyst Elie Honig analyzes why the Supreme Court likely rejected a request by special counsel Jack Smith to fast-track arguments on whether Donald Trump has any immunity from federal prosecution for alleged crimes he committed while in offic…",
+            "url": "https://www.cnn.com/videos/politics/2023/12/22/trump-immunity-supreme-court-rejects-jack-smith-request-sot-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230905223557-donald-trump-jack-smith-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-22T21:17:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Ronald Mizen",
+            "title": "Australian politics: the teals play the long game with integrity",
+            "description": "They know the best opportunity for reform may come after the next election – when the major parties could be forced to negotiate for power with crossbench.",
+            "url": "http://www.afr.com/politics/federal/the-teals-play-the-long-game-with-integrity-20231218-p5es8t",
+            "urlToImage": "https://static.ffx.io/images/$zoom_1.1037%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/092d8a66f2ffeb0aa9a6bf74581ed820c24e7e5c",
+            "publishedAt": "2023-12-21T18:00:00Z",
+            "content": "Other grants programs were found to have similarly skewed towards the Coalitions election priorities, while a go-slow in a federal anti-corruption commission, a disregard of freedom of information la… [+5741 chars]"
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
